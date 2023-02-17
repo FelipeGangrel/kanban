@@ -37,6 +37,5 @@ const config = {
     "packages/config/**",
   ],
 };
-  
+
 module.exports = config;
-  
