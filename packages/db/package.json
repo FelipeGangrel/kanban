@@ -2,8 +2,8 @@
   "name": "@acme/db",
   "version": "1.0.0",
   "license": "MIT",
-  "main": "./index.ts",
-  "types": "./index.ts",
+  "main": "index.ts",
+  "types": "index.ts",
   "scripts": {
     "clean": "rm -rf .turbo node_modules",
     "db:generate": "pnpm with-env prisma generate",
