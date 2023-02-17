@@ -1,11 +1,8 @@
 {
   "name": "kanban",
   "private": true,
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "clean": "rm -rf node_modules"
   },
   "dependencies": {
     "turbo": "^1.7.4",
